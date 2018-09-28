@@ -1,4 +1,4 @@
-# not-fancy-random-group
+# not-fancy-shuffle-group
 
 ## Project setup
 ```
