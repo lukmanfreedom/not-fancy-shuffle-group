@@ -1,5 +1,11 @@
 # not-fancy-shuffle-group
 
+## Built using:
+```
+VueJs
+Vuetify
+```
+
 ## Project setup
 ```
 yarn install
